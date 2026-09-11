@@ -90,11 +90,13 @@ def scan(ip, max_port, scan_type):
         elif scan_type == 'udp':
             udp_scan(ip, p)
 
-start_time = time.perf_counter()
+
 
 ips_input = input('Enter IP address(es) (split by comma): ')
 ports_input = input('Enter max port number to scan (e.g. 100): ')
 mode_input = input('Enter scan protocol (tcp/udp): ').strip().lower()
+
+
 
 try:
     max_port_num = int(ports_input)
@@ -105,6 +107,9 @@ except ValueError:
 ip_list = [ip.strip() for ip in ips_input.split(',')]
 
 print(f'[*] Target count: {len(ip_list)} IP address(es)')
+
+start_time = time.perf_counter()
+
 for target_ip in ip_list:
     if target_ip:
         scan(target_ip, max_port_num, mode_input)
