@@ -1,4 +1,3 @@
-```markdown
 # 🔍 Multi-Threaded TCP/UDP Banner Grabbing Port Scanner
 
 A lightweight, multi-protocol command-line network reconnaissance tool written in pure Python. This scanner identifies open TCP and UDP ports, resolves service names, grabs version banners for active services, and supports target batches—all without external dependencies.
@@ -28,7 +27,7 @@ A lightweight, multi-protocol command-line network reconnaissance tool written i
 Clone the repository to your local system:
 
 ```bash
-git clone [https://github.com/nihalhyder/port-scanner.git](https://github.com/nihalhyder/port-scanner.git)
+git clone https://github.com/nihalhyder/port-scanner.git
 cd port-scanner
 
 ```
@@ -61,7 +60,7 @@ When executed, the program will ask for three inputs:
  |_|  \___/|_|_\ |_|   |___/\___/_/ \_\_|\_| \___/___|_|_\ 
 
 Made by : Nihal Hyder
-My GitHub account : [https://github.com/nihalhyder](https://github.com/nihalhyder)
+My GitHub account : https://github.com/nihalhyder
 
 Enter IP address(es) (split by comma): 127.0.0.1
 Enter max port number to scan (e.g. 100): 100
@@ -96,7 +95,3 @@ total time it tooks to scan the port(s) 1.241503921 seconds
 ## ⚠️ Disclaimer
 
 This tool is designed strictly for educational, security research, and network auditing purposes on authorized systems. Unauthorized port scanning against targets without explicit permission may violate applicable local and international laws.
-
-```
-
-```
