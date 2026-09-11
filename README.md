@@ -19,7 +19,7 @@ A lightweight, multi-protocol command-line network reconnaissance tool written i
 
 ### Prerequisites
 
-* Python 3.x installed on your system.
+* Python 3.10.0 installed on your system.
 * No additional 3rd-party modules or `pip` installations required (uses standard library modules: `socket`, `time`).
 
 ### Installation
