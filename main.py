@@ -14,7 +14,7 @@ ascii_art = f"""{RED}
 
 print(ascii_art)
 print("Made by : Nihal Hyder")
-print("My GitHub account : https://github.com/nihalhyder\n")
+print("My GitHub account : https://github.com/nihal-hyder\n")
 
 def get_service_name(port, protocol):
     try:

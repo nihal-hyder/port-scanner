@@ -27,7 +27,7 @@ A lightweight, multi-protocol command-line network reconnaissance tool written i
 Clone the repository to your local system:
 
 ```bash
-git clone https://github.com/nihalhyder/port-scanner.git
+git clone https://github.com/nihal-hyder/port-scanner-python
 cd port-scanner
 
 ```
@@ -39,7 +39,7 @@ cd port-scanner
 Run the scanner directly using Python:
 
 ```bash
-python port_scanner.py
+python main.py
 
 ```
 
@@ -60,7 +60,7 @@ When executed, the program will ask for three inputs:
  |_|  \___/|_|_\ |_|   |___/\___/_/ \_\_|\_| \___/___|_|_\ 
 
 Made by : Nihal Hyder
-My GitHub account : https://github.com/nihalhyder
+My GitHub account : https://github.com/nihal-hyder
 
 Enter IP address(es) (split by comma): 127.0.0.1
 Enter max port number to scan (e.g. 100): 100
