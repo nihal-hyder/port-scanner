@@ -88,7 +88,7 @@ total time it tooks to scan the port(s) 1.241503921 seconds
 ## 👤 Author
 
 * **Nihal Hyder**
-* GitHub: [@nihalhyder](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/nihalhyder)
+* GitHub: [@nihalhyder](https://www.google.com/url?sa=E&source=gmail&q=[https://github.com/nihalhyder](https://github.com/nihal-hyder))
 
 ---
 
